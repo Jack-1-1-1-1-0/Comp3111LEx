@@ -18,4 +18,4 @@ That awful Tragedy
 By Transport's instability
 And Doom's celerity.
 
-![Maybe something went wrong](C:\Users\jackn\Pictures\Screenshots\intellijLab1.png)
+![Maybe something went wrong](intellijLab1.png)
