@@ -1,3 +1,7 @@
+COMP3111 Lab 1, done by YAN, Zhangcheng (SID: 20949252), attached below a very nice poem.
+
+A Dew sufficed itself - Emily Dickinson
+
 A Dew sufficed itself — 
 And satisfied a Leaf
 And felt "how vast a destiny" —
